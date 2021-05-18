@@ -12,7 +12,6 @@ import java.util.ArrayList;
 import java.sql.*;
 import javax.swing.*;
 import java.io.*;
-import java.util.concurrent.ThreadLocalRandom;
 
 public class UI extends javax.swing.JFrame {
 
